@@ -1,2 +1,1 @@
-# Variable Fonts Example
 # MaskEffect

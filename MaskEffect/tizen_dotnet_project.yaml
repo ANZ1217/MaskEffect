@@ -1,0 +1,9 @@
+# csproj file path
+csproj_file: MaskEffect.csproj
+
+# files monitored for dirty/modified status
+files:
+  - MaskEffect.csproj
+  - MaskEffect.cs
+  - tizen-manifest.xml
+  - shared/res/MaskEffect.png
